@@ -1,0 +1,6 @@
+train: D:\DangTri\Uni\DACN1\Dataset\train\images # train images (relative to 'path')
+val: D:\DangTri\Uni\DACN1\Dataset\valid\images # val images (relative to 'path')
+
+# Classes
+names:
+  0: plate
